@@ -1,0 +1,32 @@
+
+.product-card{
+    margin: 10px;
+    width: 300px;
+    padding: 5px;
+    border-radius: 10px;
+    box-shadow:0 0 20px 0px rgba(151, 4, 4, 0.3);
+}
+.product-img{
+    width: 200px;
+    height: 200px;
+    display: block;
+    margin: 10px auto;
+    border-radius: 10px;
+}
+.product-name{
+    text-align: center;
+}
+.product-card p{
+    font-size: 15px;
+}
+.btn{
+    padding: 10px 20px;
+    display: block;
+    margin: 10px auto;
+    background-color: brown;
+    color: #fff;
+    border-radius: 5px;
+    border: 1px solid #fff;
+    box-shadow: 0 0 10px 0px brown;
+
+}
